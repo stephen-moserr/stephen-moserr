@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- New GitHub User trying to get into Dev
+- I'm currently learning about everything!
+
 <!--
 **stephen-moserr/stephen-moserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
